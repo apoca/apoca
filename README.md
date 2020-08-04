@@ -1,18 +1,15 @@
-### Hi there 👋
+### Hey 👋🏽, I'm [apoca!](https://www.miguelvieira.com.pt) 
 
-<!--
-**apoca/apoca** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm currently the ***Technical Lead Developer*** of [eSolidar](https://www.esolidar.com) where I am able to do what I love best and develop the companies' technological backbone from the ground up.
 
-Here are some ideas to get you started:
+**Talking about Personal Stuffs:**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
+- 🔭 I’m currently working on [eSolidar](https://www.esolidar.com)
+- 🌱 I’m currently learning more about Microservice architecture pattern
+- 💬 Ask me about anything, I am happy to help
+- 📫 How to reach me: vieira@miguelvieira.com.pt
 - ⚡ Fun fact: ...
--->
 
 ![apoca's github stats](https://github-readme-stats.vercel.app/api?username=apoca&show_icons=true&hide_border=true)
+
+⭐️ From [apoca](https://github.com/apoca)
