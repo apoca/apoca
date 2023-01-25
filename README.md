@@ -5,7 +5,7 @@ I'm currently the ***Chief Information Officer*** of [bsolus](https://www.bsolus
 **BIO**
 
 - 🔭 I’m currently working on [bsolus](https://www.bsolus.pt/pt/en/)
-- 🌱 I’m currently learning more about Microservice architecture pattern
+- 🌱 I’m currently implementing Microservice architecture pattern
 - 💬 Ask me about anything, I am happy to help
 - 📫 How to reach me: vieira@miguelvieira.com.pt
 - ⚡ Fun fact: “So if you want to go fast, if you want to get done quickly, if you want your code to be easy to write, make it easy to read.” - Uncle Bob (Robert C. Martin)
