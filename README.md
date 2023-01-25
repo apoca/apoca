@@ -1,6 +1,6 @@
 ### Hey 👋🏽, I'm [Miguel Vieira!](https://www.miguelvieira.com.pt) 
 
-I'm currently the ***Chief Information Officer*** at [bsolus](https://www.bsolus.pt/pt/en/) leader that loves to build and scale Engineering Teams in Startups, Scaleups, and Enterprise companies by giving them Clarity, Competence, and Autonomy.
+I'm a leader that loves to build and scale Engineering Teams in Startups, Scaleups, and Enterprise companies by giving them Clarity, Competence, and Autonomy.
 
 **BIO**
 
